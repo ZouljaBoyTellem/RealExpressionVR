@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg/master/scripts/vcpkg.schema.json",
+  "name": "myplugin",
+  "version-semver": "1.0.0",
+  "dependencies": [
+    "directxmath",
+    "directxtk",
+    "fmt",
+    "rapidcsv",
+    "simpleini",
+    "spdlog",
+    "xbyak"
+  ]
+}
